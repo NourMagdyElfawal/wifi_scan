@@ -8,8 +8,8 @@ const String STA_DEFAULT_SSID = "STA_SSID";
 const String STA_DEFAULT_PASSWORD = "STA_PASSWORD";
 const NetworkSecurity STA_DEFAULT_SECURITY = NetworkSecurity.WPA;
 
-const String AP_DEFAULT_SSID = "AP_SSID";
-const String AP_DEFAULT_PASSWORD = "AP_PASSWORD";
+const String AP_DEFAULT_SSID = "TE-Data";
+const String AP_DEFAULT_PASSWORD = "fawzy12345";
 
 void main() => runApp(FlutterWifiIoT());
 
